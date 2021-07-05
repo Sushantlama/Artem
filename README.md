@@ -24,7 +24,7 @@ Art is made to be explored
   </tr>
  </table>
  <br>
- ## Api
+ # Api
  Art insititute of chicago Api
 
 
