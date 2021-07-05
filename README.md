@@ -6,6 +6,7 @@ Art is made to be explored
 <br>
 # Screenshots
 # Api
+<br>
 <table>
   <tr>
     <td>Artworks screen Page</td>
@@ -24,6 +25,7 @@ Art is made to be explored
     <td><img src="photos/user.jpg" width="300"></td>
   </tr>
  </table>
+ <br>
  # Api
  ## Api
  ### Api
