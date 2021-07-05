@@ -6,7 +6,7 @@ Art is made to be explored
 <br>
 # Screenshots
 <img src="photos/artworks.jpg" width="200">
-<img src="photos/logo.png" width="200">
-<img src="photos/logo.png" width="200">
-<img src="photos/logo.png" width="200">
-<img src="photos/logo.png" width="200">
+<img src="photos/artworks_item.jpg" width="200">
+<img src="photos/artist.jpg" width="200">
+<img src="photos/artist_picasso.jpg" width="200">
+<img src="photos/search.jpg" width="200">
