@@ -2,4 +2,4 @@
 An Art gallary App
 Art is made to be explored
 <br>
-<img src="photos/logo.png" width="100">
+<img src="photos/logo.png" width="200">
