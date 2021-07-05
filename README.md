@@ -23,9 +23,15 @@ Since the app is yet not released in any app store.you can Access the app throug
     <td><img src="photos/step7.jpeg" width="300"></td>  
     <td><img src="photos/step8.jpeg" width="300"></td>
   </tr>
- </table>
-  <br>
+ </table>  
 - Install it
+   <br>
+  <table>
+  <tr>
+    <td><img src="photos/step7.jpeg" width="300"></td>  
+    <td><img src="photos/step8.jpeg" width="300"></td>
+  </tr>
+ </table>  
 # Screenshots
 <br>
 <table>
