@@ -1,4 +1,4 @@
-# Artem
+# MonaLisa
 An Art gallary App
 Art is made to be explored
 <br>
@@ -8,7 +8,7 @@ Art is made to be explored
 - Art institute of Chichago Api
 # Installation
 Since the app is yet not released in any app store.you can Access the app through the following steps:-
-- Go to Apk folder
+- Go to Apk folder 
 - download the app-release.apk file
 - if using any device except android move the file to your android device (ex :- share through WhatsApp)
 - find the apk file in the file explorer of your android device
