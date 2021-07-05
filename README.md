@@ -13,22 +13,17 @@ Since the app is yet not released in any app store.you can Access the app throug
 - download the app-release.apk file
 - if using any device except android move the file to your android device (ex :- share through WhatsApp)<img src="photos/step2.jpg">
 - find the apk file in the file explorer of your android device
+- Install it
   <table>
   <tr>
     <td><img src="photos/step3.jpeg" width="300" ></td>
     <td><img src="photos/step4.jpeg" width="300"></td>
     <td><img src="photos/step5.jpeg" width="300"></td>
     <td><img src="photos/step6.jpeg" width="300"></td>
-  </tr>
- </table>  
-- Install it
-   <br>
-  <table>
-  <tr>
     <td><img src="photos/step7.jpeg" width="300"></td>  
     <td><img src="photos/step8.jpeg" width="300"></td>
-  </tr>
- </table>  
+  </table>
+done 
 # Screenshots
 <br>
 <table>
