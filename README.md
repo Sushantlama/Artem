@@ -6,6 +6,12 @@ Art is made to be explored
 <br>
 # Api
 - Art institute of Chichago Api
+# Installation
+Since the app is yet not released in any app store.you can Access the app through the following steps:-
+- Go to Apk folder
+- download the app-release.apk file
+- find the apk file in the file exploror of your android device
+- Install it
 # Screenshots
 <br>
 <table>
