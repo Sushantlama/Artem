@@ -4,8 +4,9 @@ Art is made to be explored
 <br>
 <img src="photos/logo.png" width="200">
 <br>
-# Screenshots
 # Api
+-Art institute of Chichago Api
+# Screenshots
 <br>
 <table>
   <tr>
@@ -26,9 +27,7 @@ Art is made to be explored
   </tr>
  </table>
  <br>
- # Api
- ## Api
- ### Api
+ 
 
 
 
