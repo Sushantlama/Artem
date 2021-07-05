@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/d_1"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".LogIn.UserImageFragment">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <Button
+            android:layout_gravity="center"
+            android:id="@+id/open_dialog"
+            android:backgroundTint="@color/d_3"
+            android:textColor="@color/d_1"
+            android:text="@string/choose_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <ImageView
+            android:id="@+id/avatar"
+            android:background="@drawable/circle"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/avatar1"
+            />
+        <Button
+            android:backgroundTint="@color/d_3"
+            android:layout_gravity="center"
+            android:id="@+id/btn_next"
+            android:textColor="@color/d_1"
+            android:text="@string/finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <com.github.mmin18.widget.RealtimeBlurView
+        android:id="@+id/blur_sighup"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:realtimeBlurRadius="20dp"
+        android:visibility="invisible"
+        app:realtimeOverlayColor="#8000" />
+    <com.github.ybq.android.spinkit.SpinKitView
+        android:id="@+id/spin_kit_sighnup"
+        android:layout_centerInParent="true"
+        style="@style/SpinKitView.RotatingPlane"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:SpinKit_Color="#64FFDA" />
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1097317125540",
+    "project_id": "artem-f3371",
+    "storage_bucket": "artem-f3371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097317125540:android:ae3d094d8749c4714e4531",
+        "android_client_info": {
+          "package_name": "com.example.artem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097317125540-04l4fhfh0dm4ltm06cved9k4td905h2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGnVO3x3grTAREGxn474lCTaOI5PYmLxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097317125540-04l4fhfh0dm4ltm06cved9k4td905h2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

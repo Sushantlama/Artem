@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">artem</string>
+    <string name="tab_artist">Artists</string>
+    <string name="tab_artworks">Artworks</string>
+    <string name="tab_gallaries">Gallaries</string>
+    <string name="tab_popular">Popular</string>
+
+    <string name="phonenumber_hint">Enter the phone number to verify</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number_hint">Type your Email</string>
+    <string name="Continue">Continue</string>
+    <string name="sighup_info">SignUp using your Email</string>
+    <string name="password_hint">Type your Password</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">Login</string>
+    <string name="username">username</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="choose_image">choose an Profile image</string>
+    <string name="finish">finish</string>
+</resources>
