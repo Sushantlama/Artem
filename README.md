@@ -9,7 +9,7 @@ Art is made to be explored
 # Installation
 Since the app is yet not released in any app store.you can Access the app through the following steps:-
 - download the app-release.apk file
-- if using any device except android move the file to your android device (ex :- share through WhatsApp)<img src="photos/step2.jpg">
+- if using any device except android move the file to your android device (ex :- share through WhatsApp)<img src="photos/step_2.jpg">
 - find the apk file in the file explorer of your android device
 - Install it
   <table>
