@@ -39,7 +39,7 @@ done
     <td><img src="photos/artist.jpg" width="300"></td>
     <td><img src="photos/artist_picasso.jpg" width="300"></td>
     <td><img src="photos/search.jpg" width="300"></td>  
-    <td><img src="photos/user.jpg" width="300"></td>
+    <td><img src="photos/user2.jpg" width="300"></td>
   </tr>
  </table>
  <br>
